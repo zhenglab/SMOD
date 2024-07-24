@@ -1,7 +1,7 @@
-# Self-Supervised Marine Organism Detection (SMOD) from Underwater Images
-We release the code of Self-Supervised Marine Organism Detection from Underwater Images in our papers:
+# Self-supervised Marine Organism Detection (SMOD) from Underwater Images
+We release the code of our work "Self-supervised Marine Organism Detection from Underwater Images".
 ### Introduction
-We design an Self-Supervised Marine Organism Detection framework for underwater images to detect organisms. We propose a set of underwater image augmentation strategies to enhance the quality of representation we learned, besides, we also propose a novel Underwater Attention module to explore effective underwater representation for marine organism detection. This code is based on the Simsiam and mmdetection codebase (v2.13.0).
+We design an Self-supervised Marine Organism Detection (SMOD) framework for underwater images to detect marine organisms. We propose a set of underwater image augmentation strategies to enhance the quality of learned representation. Besides, we also propose a novel Underwater Attention module to explore effective underwater representation for marine organism detection. This code is based on the SimSiam and MMDetection codebase (v2.13.0).
 ![Image text](https://github.com/lenka844/SSLMarineOrgnismDET/blob/main/fig.png)
 ### Requirements
 + Linux or macOS (Windows is in experimental support)
